@@ -9,7 +9,7 @@
 
 # Selenium documentation home page
 
-url = https://www.selenium.dev/documentation/
+url = "https://www.selenium.dev/documentation/"
 
 
 
